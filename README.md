@@ -11,3 +11,9 @@ Visit site:
   * `$ cd apps/rsvp_web`
   * `$ mix phoenix.server`
   * Navigate to [`localhost:4000`](http://localhost:4000) in your browser.
+
+Login:
+  * You must be logged into create an event.
+  * TODO:
+    * Create password field.
+    * Add at least some security.
