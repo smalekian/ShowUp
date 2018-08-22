@@ -1,0 +1,20 @@
+{
+  "name": "rsvp_web",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Spencer Malekian <spencer.malekian@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/smalekian/rsvp_umbrella",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

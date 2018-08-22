@@ -1,0 +1,6 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome!" %></h2>
+  <p class="lead">Hit one of those buttons in the top right to go to
+    <br>the places that their names very obviously indicate.</p>
+</div>
+
